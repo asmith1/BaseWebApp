@@ -11,7 +11,7 @@ function myFunction() {
 
 }
 
-function removeFunction() {
+function removePic() {
     $("#doge-image").remove();
 
 }
